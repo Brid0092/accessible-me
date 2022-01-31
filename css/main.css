@@ -107,3 +107,15 @@ li {
 .full-name {
   font-weight: bold;
 }
+
+.button {
+  border-width: 5px;
+  font-size: 16px;
+  background-color: white;
+}
+
+input, textarea {
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+}
